@@ -4,8 +4,7 @@
 
 ## Project Overview
 This project involves an EV3 robot capable of autonomous navigation with collision avoidance using various sensors. The robot operates in a simulated environment where it must collect yellow cubes and deliver them to a designated green zone while avoiding blue cubes and walls. The project demonstrates the integration of perception and planning to achieve autonomous navigation.
-
-![image](https://github.com/Jake-G-1/ev3-Autonomous-Navigation/robot.jpg)
+![robot](https://github.com/user-attachments/assets/93b44d6d-84c0-482e-beac-c24d7f7943f6)
 
 ## Objective
 Navigate an enclosed environment to collect yellow cubes.
